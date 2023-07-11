@@ -1,1 +1,1 @@
-ile type: School
+File type: School
