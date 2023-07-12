@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$user\t$home" < /etc/passwd | sort -k1
